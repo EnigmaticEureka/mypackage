@@ -37,4 +37,3 @@ repos:
                 - flake8-logging-format
                 - pep8-naming
                 - tryceratops
-    
